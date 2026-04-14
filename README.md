@@ -49,20 +49,20 @@ Designed with a user-friendly guided workflow, it significantly reduces manual e
 *(Add your screenshots in the `images/` or `assets/` folder)*
 
 **Pay Run Processing**  
-![Pay Run](images/pay-run-processing.png)
+![Pay Run](images/pay-runs.png)
 
 **Salary Detail & Breakdown**  
 ![Salary Detail](images/salary-detail.png)
-
+<!-- 
 **Payslip Generation**  
-![Payslip](images/payslip.png)
+![Payslip](images/payslip.png) -->
 
 **Salary Setup**  
 ![Salary Setup](images/salary-setup.png)
 
 ---
 
-## 🚀 Installation & Setup
+<!-- ## 🚀 Installation & Setup
 
 1. Publish the extension to your Business Central environment
 2. Set up **Salary Items**, **Allowances**, **Deductions**, and **Bank Accounts**
@@ -73,7 +73,7 @@ Designed with a user-friendly guided workflow, it significantly reduces manual e
    - Post Payments
    - Generate Payslips
 
----
+--- -->
 
 ## 💡 Best Practices Applied
 
@@ -87,7 +87,7 @@ Designed with a user-friendly guided workflow, it significantly reduces manual e
 
 ## 📄 License
 
-This is a **personal portfolio project** showcasing advanced Dynamics 365 Business Central development skills, specifically in the **Payroll & Localization** domain.
+This is a **company project** showcasing advanced Dynamics 365 Business Central development skills, specifically in the **Payroll & Localization** domain.
 
 ---
 
