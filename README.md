@@ -46,8 +46,6 @@ Designed with a user-friendly guided workflow, it significantly reduces manual e
 
 ## 📸 Screenshots
 
-*(Add your screenshots in the `images/` or `assets/` folder)*
-
 **Pay Run Processing**  
 ![Pay Run](images/pay-runs.png)
 
